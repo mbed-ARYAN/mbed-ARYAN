@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mbed-ARYAN
-- 👀 I’m interested in Embedded_systems
-- 🌱 I’m currently learning ...STM32
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Embedded systems engineer focused on bare-metal C and hardware-aware firmware design.
 
-<!---
-mbed-ARYAN/mbed-ARYAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Microcontrollers: AVR (AVR-1 series), STM32 (ARM Cortex-M)
+
+Work at the peripheral and register level
+
+Sensors, ADCs, timers, PWM, UART, GPIO
+
+Emphasis on timing, signal integrity, and predictable behavior
+
+GitHub is used as a personal workspace for drivers, experiments, and reusable embedded modules.
+
+Hardware is honest. Firmware has to be precise.
